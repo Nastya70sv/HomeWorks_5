@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/panov/Desktop/GB/HomeWorks_5/HW_37/HW_37.csproj": {}
+    "/Users/panov/Desktop/GB/HomeWorks_5/HW_38/HW_37.csproj": {}
   },
   "projects": {
-    "/Users/panov/Desktop/GB/HomeWorks_5/HW_37/HW_37.csproj": {
+    "/Users/panov/Desktop/GB/HomeWorks_5/HW_38/HW_37.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/panov/Desktop/GB/HomeWorks_5/HW_37/HW_37.csproj",
+        "projectUniqueName": "/Users/panov/Desktop/GB/HomeWorks_5/HW_38/HW_37.csproj",
         "projectName": "HW_37",
-        "projectPath": "/Users/panov/Desktop/GB/HomeWorks_5/HW_37/HW_37.csproj",
+        "projectPath": "/Users/panov/Desktop/GB/HomeWorks_5/HW_38/HW_37.csproj",
         "packagesPath": "/Users/panov/.nuget/packages/",
-        "outputPath": "/Users/panov/Desktop/GB/HomeWorks_5/HW_37/obj/",
+        "outputPath": "/Users/panov/Desktop/GB/HomeWorks_5/HW_38/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/panov/.nuget/NuGet/NuGet.Config"
