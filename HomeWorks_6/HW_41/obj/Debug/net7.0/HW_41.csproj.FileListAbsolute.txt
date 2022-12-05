@@ -1,0 +1,15 @@
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_6/HW_41/obj/Debug/net7.0/HW_41.csproj.AssemblyReference.cache
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_6/HW_41/obj/Debug/net7.0/HW_41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_6/HW_41/obj/Debug/net7.0/HW_41.AssemblyInfoInputs.cache
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_6/HW_41/obj/Debug/net7.0/HW_41.AssemblyInfo.cs
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_6/HW_41/obj/Debug/net7.0/HW_41.csproj.CoreCompileInputs.cache
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_6/HW_41/bin/Debug/net7.0/HW_41
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_6/HW_41/bin/Debug/net7.0/HW_41.deps.json
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_6/HW_41/bin/Debug/net7.0/HW_41.runtimeconfig.json
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_6/HW_41/bin/Debug/net7.0/HW_41.dll
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_6/HW_41/bin/Debug/net7.0/HW_41.pdb
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_6/HW_41/obj/Debug/net7.0/HW_41.dll
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_6/HW_41/obj/Debug/net7.0/refint/HW_41.dll
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_6/HW_41/obj/Debug/net7.0/HW_41.pdb
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_6/HW_41/obj/Debug/net7.0/HW_41.genruntimeconfig.cache
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_6/HW_41/obj/Debug/net7.0/ref/HW_41.dll
