@@ -1,0 +1,15 @@
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_8/60/bin/Debug/net7.0/60
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_8/60/bin/Debug/net7.0/60.deps.json
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_8/60/bin/Debug/net7.0/60.runtimeconfig.json
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_8/60/bin/Debug/net7.0/60.dll
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_8/60/bin/Debug/net7.0/60.pdb
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_8/60/obj/Debug/net7.0/60.csproj.AssemblyReference.cache
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_8/60/obj/Debug/net7.0/60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_8/60/obj/Debug/net7.0/60.AssemblyInfoInputs.cache
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_8/60/obj/Debug/net7.0/60.AssemblyInfo.cs
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_8/60/obj/Debug/net7.0/60.csproj.CoreCompileInputs.cache
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_8/60/obj/Debug/net7.0/60.dll
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_8/60/obj/Debug/net7.0/refint/60.dll
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_8/60/obj/Debug/net7.0/60.pdb
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_8/60/obj/Debug/net7.0/60.genruntimeconfig.cache
+/Users/panov/Desktop/GB/HomeWorks_5/HomeWorks_8/60/obj/Debug/net7.0/ref/60.dll
